@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Android developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on [TournamentApp](https://github.com/h4sanzade/TournamentProject)
+- 🔭 I’m currently working on [JV Fitness](https://github.com/h4sanzade/JV)
 
 - 🌱 I’m currently learning **Jetpack Libraries**
 
