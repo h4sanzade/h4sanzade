@@ -1,4 +1,3 @@
-<h3 align="center">A passionate Android developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [JV Fitness](https://github.com/h4sanzade/JV)
 
